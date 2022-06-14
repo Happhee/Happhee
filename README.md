@@ -1,4 +1,4 @@
-<div align=center>
+
 
  # 💛 HAPPHEE 💛
  *끊임없이 성장하는 Web Front end 개발자*
@@ -17,7 +17,6 @@
 
 
  ## 📚 Tech Stack 📚
-
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=Typescript&logoColor=white"/></a>
 <br>
@@ -28,7 +27,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <br> 
-</div>
 
 <br> 
  
