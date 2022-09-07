@@ -1,9 +1,9 @@
 ## 💛 HAPPHEE 💛
  *춤추면서 개발을 즐기는 Web Front end 개발자*
 
-## 💬 Happhe.dev
+## 💬 Happhee.dev
 [happhee-tistory](https://happhee-dev.tistory.com/m)
-[]()
+[happhee-velog](https://velog.io/@seohee0112)
 
  <br>
 
