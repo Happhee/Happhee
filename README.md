@@ -21,11 +21,15 @@
  ## 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=Typescript&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=React&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/styled/component-e084c6?style=flat-square&logo=styled-components&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <br> 
+<img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"></a>
