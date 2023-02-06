@@ -1,3 +1,6 @@
+
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Happhee&show_icons=true&theme=dracula"/>
+
 ## 💛 HAPPHEE 💛
  *춤추면서 개발을 즐기는 Web Front end 개발자*
 
