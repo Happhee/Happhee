@@ -17,9 +17,9 @@
 |---|---|---|
 |<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 연합 SOPT</a>|23.02 ~ 23.07 | 제 31대 웹파트장 진행중 |
 |<a href="https://with-picme.com/">Pic.me</a>|22.12.11 ~ |  빠르게 골라보는 나의 사진, 뭐 올릴지 고민 될 땐? 픽미! , 2차 릴리즈 완료 |
-|<a href="http://sopt.org/wp/">IN SOPT</a>|22.10 ~ 23.01.28 | 31기 WEB파트 OB 수료 - 알고리즘 스터디 참여, Pic.me 개발 |
-|<a href="https://www.with-nori.com/">nori</a>|22.07.04 ~ | 다양한 장난감 정보를 한눈에! 우리 아이 장난감 대여 비교 플랫폼, nori 1차 개발 완료 |
-|<a href="http://sopt.org/wp/">THE SOPT</a>|22.03 ~ 07.30| 30기 WEB파트 YB 수료 - JS, React, TS, 웹심화, 알고리즘 스터디 참여, nori 개발 |
+|<a href="http://sopt.org/wp/">IN SOPT</a>|22.10 ~ 23.01| 31기 WEB파트 OB 수료 - 알고리즘 스터디 참여, Pic.me 개발 |
+|<a href="https://www.with-nori.com/">nori</a>|22.07 ~ 08 | 다양한 장난감 정보를 한눈에! 우리 아이 장난감 대여 비교 플랫폼, nori 1차 개발 완료 |
+|<a href="http://sopt.org/wp/">THE SOPT</a>|22.03 ~ 07| 30기 WEB파트 YB 수료 - JS, React, TS, 웹심화, 알고리즘 스터디 참여, nori 개발 |
 |세종대학교 컴퓨터공학과 학술동아리 EN# 21기 |21.03 ~ 22.06|개인 스터디 및 공모전 출전 & 멘토 활동|
 
 <br>
