@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Happhee&show_icons=true&theme=dracula"/>
 
 ## 💛 HAPPHEE 💛
- *춤추면서 개발을 즐기는 Web Front end 개발자*
+ *선한 영향력을 주는 Web Front-end Developer*
 
 ## 💬 Happhee.dev
 [happhee-tistory](https://happhee-dev.tistory.com) 
