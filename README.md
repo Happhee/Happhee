@@ -6,8 +6,6 @@
 
 ## 💬 Happhee.dev
 [happhee-tistory](https://happhee-dev.tistory.com) 
-<br>
-[happhee-velog](https://velog.io/@seohee0112)
 
  <br>
 
