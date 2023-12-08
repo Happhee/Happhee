@@ -14,8 +14,8 @@
 |활동 소속 |기간|내용|
 |---|---|---|
 |<a href="https://web.joongna.com)">중고나라</a>|23.09 ~ 23.12 | 중고나라 웹개발팀 인턴  |
-|<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 연합 SOPT</a>|23.02 ~ 23.07 | 제 31대 웹파트장  |
-|<a href="https://peerna.kr/">세종대학교 Capstone Design - PeerNa </a>|23.03 ~ 23.08 | 실시간 CS 동료 학습 플랫폼  |
+|<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 연합 SOPT</a>|23.02~23.07 | 제 31대 웹파트장  |
+|<a href="https://peerna.kr/">세종대학교 Capstone Design - PeerNa </a>|23.03~23.08 | 실시간 CS 동료 학습 플랫폼  |
 |<a href="https://with-picme.com/">Pic.me</a>|22.12 ~ 23.08 |  빠르게 골라보는 나의 사진, 뭐 올릴지 고민 될 땐? 픽미! , 2차 릴리즈 완료 |
 |<a href="http://sopt.org/wp/">IN SOPT</a>|22.10 ~ 23.01| 31기 WEB파트 OB 수료 - 알고리즘 스터디 참여, Pic.me 개발 |
 |<a href="http://sopt.org/wp/">THE SOPT</a>|22.03 ~ 22.07| 30기 WEB파트 YB 수료 - JS, React, TS, 웹심화, 알고리즘 스터디 참여, nori 개발 |
