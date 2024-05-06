@@ -13,6 +13,7 @@
 
 |활동 소속 |기간|내용|
 |---|---|---|
+|<a href="https://web.joongna.com)">중고나라</a>|24.02 ~ | 중고나라 웹개발팀  |
 |<a href="https://web.joongna.com)">중고나라</a>|23.09 ~ 23.12 | 중고나라 웹개발팀 인턴  |
 |<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 연합 SOPT</a>|23.02~23.07 | 제 31대 웹파트장  |
 |<a href="https://peerna.kr/">세종대학교 Capstone Design - PeerNa </a>|23.03~23.07 | 실시간 CS 동료 학습 플랫폼  |
