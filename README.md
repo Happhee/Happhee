@@ -13,7 +13,8 @@
 
 |활동 소속 |기간|내용|
 |---|---|---|
-|<a href="https://www.yapp.co.kr/">YAPP</a>|24.05 ~ 24.08 | YAPP Web 직군 활동 중  |
+|<a href="https://www.yapp.co.kr/">YAPP</a>|24.10 ~ 진행중 | YAPP 부회장 및 WEB 총괄 담당  |
+|<a href="https://www.yapp.co.kr/">YAPP</a>|24.05 ~ 24.09 | YAPP WEB 직군 활동   |
 |<a href="https://web.joongna.com">중고나라</a>|24.02 ~ | 중고나라 웹개발팀  |
 |<a href="https://web.joongna.com">중고나라</a>|23.09 ~ 23.12 | 중고나라 웹개발팀 인턴  |
 |<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 연합 SOPT</a>|23.02~23.07 | 제 31대 웹파트장  |
