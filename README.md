@@ -17,7 +17,7 @@
 
 |활동 소속 |기간|내용|
 |---|---|---|
-|<a href="https://www.yapp.co.kr/">YAPP</a>|24.05 ~ 진행중 | 24기 YAPP WEB 직군 활동, 25기 YAPP 부회장 및 WEB 총괄 담당   |
+|<a href="https://www.yapp.co.kr/">YAPP</a>|24.05 ~ 25.02 | 24기 YAPP WEB 직군 활동, 25기 YAPP 부회장 및 WEB 총괄 담당   |
 |<a href="http://sopt.org/wp/">대학생 연합 IT벤처 창업 연합 SOPT</a>|22.03 ~ 23.07 | <a href="https://happhee-dev.tistory.com/4">30기 WEB파트</a>, 31기 WEB파트, 32기 웹 파트장  |
 
 <br>
